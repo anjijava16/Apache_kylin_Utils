@@ -33,3 +33,4 @@ Apache Kylin™ lets you query billions of rows at sub-second latency in 3 steps
 1. https://www.mo4tech.com/exploring-kylin-real-time-stream-processing-technology-notes.html
 2. https://chowdera.com/2021/07/20210727093818633J.html
 3. https://aws.amazon.com/cn/blogs/china/data-rubiks-cube-quickly-deploy-apache-kylin-for-big-data-analysis-on-amazon-emr/
+4. https://www.udemy.com/course/apache-kylin-implementing-olap-on-the-hadoop-platform/
