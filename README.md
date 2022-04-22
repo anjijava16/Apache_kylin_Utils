@@ -21,6 +21,9 @@ Apache Kylin™ lets you query billions of rows at sub-second latency in 3 steps
 ![image](https://user-images.githubusercontent.com/5849522/164735545-bdb87ceb-b5aa-4f2f-9309-d23e20f99b66.png)
 
 
+![image](https://user-images.githubusercontent.com/5849522/164749179-2996b07f-49da-4e3c-b392-1bf4260b1b7e.png)
+
+
 
 
 
